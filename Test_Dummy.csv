@@ -1,4 +1,4 @@
-SiteID,MaintenanceID,MaintenanceDurationMinutes,NextMaintenanceDate_ASIS,NextMaintenanceDate_OPT
+Location,Task,TaskTimeMins,Date_Existing,Date_New
 S1,E4,90,7/7/2022,7/7/2022
 S1,E7,90,7/7/2022,7/7/2022
 S1,E6,60,6/30/2022,7/7/2022
